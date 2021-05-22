@@ -6,5 +6,4 @@ SUBLIME TEXT IS SUGGESTED TO BE USED.
 
 RUN THE range_det.py for the pointer color
 
-**SINGLE FINGER INPUT**
-# Virtual-Keyboard
+
